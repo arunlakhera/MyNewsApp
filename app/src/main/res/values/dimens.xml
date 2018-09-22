@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="padding_med">8dp</dimen>
+    <dimen name="padding_lar">16dp</dimen>
+    <dimen name="image_width">70dp</dimen>
+    <dimen name="image_height">50dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="text_size_med">20sp</dimen>
+    <dimen name="text_size_lar">35sp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="text_title_size">25sp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_med">8dp</dimen>
+    <dimen name="margin_lar">16dp</dimen>
+    <dimen name="toolbar_height">50dp</dimen>
+    <dimen name="news_type_img_height">120dp</dimen>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My News</string>
+    <string name="api_key">8e2c0aa50afc4a6aaca3dcef14cec00a</string>
+    <string name="bbc_news">bbc-news</string>
+    <string name="espn_news">espn</string>
+    <string name="financial_post">financial-times</string>
+    <string name="tech">techcrunch</string>
+    <string name="entertainment_weekly">entertainment-weekly</string>
+    <string name="author">author</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="url">url</string>
+    <string name="urlToImage">urlToImage</string>
+    <string name="publishedAt">publishedAt</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="unexpected_err">Unexpected error</string>
+    <string name="no_news">No news found</string>
+    <string name="articles">articles</string>
+    <string name="temp_title">This is news title</string>
+    <string name="news">News</string>
+    <string name="sports">Sports</string>
+    <string name="finance">Finance</string>
+    <string name="technology">Technology</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="link_error">Error!.Please try again later.</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal"
+    >
+
+    <TextView
+        android:id="@+id/textView_ScreenTitle"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/toolbar_height"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@android:color/white"
+        android:text="@string/app_name"
+        android:textSize="@dimen/text_title_size"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button_back"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="@dimen/margin_med"
+        android:layout_marginRight="@dimen/margin_med"
+        android:layout_marginEnd="@dimen/margin_med"
+        android:visibility="invisible"
+        android:background="@drawable/back"
+        android:textColor="@color/colorOrange"
+        />
+
+</LinearLayout>
